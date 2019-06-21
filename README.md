@@ -18,4 +18,6 @@ Run python face_identify.py
 
 OUTPUT:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/i-am-manish/video_face_detection-Identification/blob/master/bo.PNG)
+
+![alt text](https://github.com/i-am-manish/video_face_detection-Identification/blob/master/rb.PNG)
