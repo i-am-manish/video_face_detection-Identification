@@ -15,3 +15,7 @@ videos has a video(inside a folder named a label-*barack*)
 on running pre-computefeatures.py, we extract images from video and put those in face_images and we save the model as pickle file with features.
 
 Run python face_identify.py 
+
+OUTPUT:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
